@@ -1,0 +1,6 @@
+{
+  "name": "Pulse Kids",
+  "description": "Contes illustrés, petites activités d'apprentissage et journal animé du jour pour les enfants de 5 ans.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
